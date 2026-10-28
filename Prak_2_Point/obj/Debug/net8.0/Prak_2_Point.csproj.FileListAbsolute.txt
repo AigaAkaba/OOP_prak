@@ -1,0 +1,15 @@
+C:\Users\Dima\Desktop\OOP prak\Prak_2_Point\bin\Debug\net8.0\Prak_2_Point.exe
+C:\Users\Dima\Desktop\OOP prak\Prak_2_Point\bin\Debug\net8.0\Prak_2_Point.deps.json
+C:\Users\Dima\Desktop\OOP prak\Prak_2_Point\bin\Debug\net8.0\Prak_2_Point.runtimeconfig.json
+C:\Users\Dima\Desktop\OOP prak\Prak_2_Point\bin\Debug\net8.0\Prak_2_Point.dll
+C:\Users\Dima\Desktop\OOP prak\Prak_2_Point\bin\Debug\net8.0\Prak_2_Point.pdb
+C:\Users\Dima\Desktop\OOP prak\Prak_2_Point\obj\Debug\net8.0\Prak_2_Point.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dima\Desktop\OOP prak\Prak_2_Point\obj\Debug\net8.0\Prak_2_Point.AssemblyInfoInputs.cache
+C:\Users\Dima\Desktop\OOP prak\Prak_2_Point\obj\Debug\net8.0\Prak_2_Point.AssemblyInfo.cs
+C:\Users\Dima\Desktop\OOP prak\Prak_2_Point\obj\Debug\net8.0\Prak_2_Point.csproj.CoreCompileInputs.cache
+C:\Users\Dima\Desktop\OOP prak\Prak_2_Point\obj\Debug\net8.0\Prak_2_Point.sourcelink.json
+C:\Users\Dima\Desktop\OOP prak\Prak_2_Point\obj\Debug\net8.0\Prak_2_Point.dll
+C:\Users\Dima\Desktop\OOP prak\Prak_2_Point\obj\Debug\net8.0\refint\Prak_2_Point.dll
+C:\Users\Dima\Desktop\OOP prak\Prak_2_Point\obj\Debug\net8.0\Prak_2_Point.pdb
+C:\Users\Dima\Desktop\OOP prak\Prak_2_Point\obj\Debug\net8.0\Prak_2_Point.genruntimeconfig.cache
+C:\Users\Dima\Desktop\OOP prak\Prak_2_Point\obj\Debug\net8.0\ref\Prak_2_Point.dll
