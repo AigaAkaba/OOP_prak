@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Prak_0_BattleSim/1.0.0": {
+        "runtime": {
+          "Prak_0_BattleSim.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Prak_0_BattleSim/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

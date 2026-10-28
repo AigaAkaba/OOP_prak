@@ -1,0 +1,14 @@
+C:\Users\Dima\Desktop\OOP prak\Prak_0_BattleSim\bin\Debug\net8.0\Prak_0_BattleSim.exe
+C:\Users\Dima\Desktop\OOP prak\Prak_0_BattleSim\bin\Debug\net8.0\Prak_0_BattleSim.deps.json
+C:\Users\Dima\Desktop\OOP prak\Prak_0_BattleSim\bin\Debug\net8.0\Prak_0_BattleSim.runtimeconfig.json
+C:\Users\Dima\Desktop\OOP prak\Prak_0_BattleSim\bin\Debug\net8.0\Prak_0_BattleSim.dll
+C:\Users\Dima\Desktop\OOP prak\Prak_0_BattleSim\bin\Debug\net8.0\Prak_0_BattleSim.pdb
+C:\Users\Dima\Desktop\OOP prak\Prak_0_BattleSim\obj\Debug\net8.0\Prak_0_BattleSim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dima\Desktop\OOP prak\Prak_0_BattleSim\obj\Debug\net8.0\Prak_0_BattleSim.AssemblyInfoInputs.cache
+C:\Users\Dima\Desktop\OOP prak\Prak_0_BattleSim\obj\Debug\net8.0\Prak_0_BattleSim.AssemblyInfo.cs
+C:\Users\Dima\Desktop\OOP prak\Prak_0_BattleSim\obj\Debug\net8.0\Prak_0_BattleSim.csproj.CoreCompileInputs.cache
+C:\Users\Dima\Desktop\OOP prak\Prak_0_BattleSim\obj\Debug\net8.0\Prak_0_BattleSim.dll
+C:\Users\Dima\Desktop\OOP prak\Prak_0_BattleSim\obj\Debug\net8.0\refint\Prak_0_BattleSim.dll
+C:\Users\Dima\Desktop\OOP prak\Prak_0_BattleSim\obj\Debug\net8.0\Prak_0_BattleSim.pdb
+C:\Users\Dima\Desktop\OOP prak\Prak_0_BattleSim\obj\Debug\net8.0\Prak_0_BattleSim.genruntimeconfig.cache
+C:\Users\Dima\Desktop\OOP prak\Prak_0_BattleSim\obj\Debug\net8.0\ref\Prak_0_BattleSim.dll
