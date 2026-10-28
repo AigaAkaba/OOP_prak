@@ -1,0 +1,15 @@
+C:\Users\Dima\Desktop\OOP prak\Prak_3_Circle\bin\Debug\net8.0\Prak_3_Circle.exe
+C:\Users\Dima\Desktop\OOP prak\Prak_3_Circle\bin\Debug\net8.0\Prak_3_Circle.deps.json
+C:\Users\Dima\Desktop\OOP prak\Prak_3_Circle\bin\Debug\net8.0\Prak_3_Circle.runtimeconfig.json
+C:\Users\Dima\Desktop\OOP prak\Prak_3_Circle\bin\Debug\net8.0\Prak_3_Circle.dll
+C:\Users\Dima\Desktop\OOP prak\Prak_3_Circle\bin\Debug\net8.0\Prak_3_Circle.pdb
+C:\Users\Dima\Desktop\OOP prak\Prak_3_Circle\obj\Debug\net8.0\Prak_3_Circle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dima\Desktop\OOP prak\Prak_3_Circle\obj\Debug\net8.0\Prak_3_Circle.AssemblyInfoInputs.cache
+C:\Users\Dima\Desktop\OOP prak\Prak_3_Circle\obj\Debug\net8.0\Prak_3_Circle.AssemblyInfo.cs
+C:\Users\Dima\Desktop\OOP prak\Prak_3_Circle\obj\Debug\net8.0\Prak_3_Circle.csproj.CoreCompileInputs.cache
+C:\Users\Dima\Desktop\OOP prak\Prak_3_Circle\obj\Debug\net8.0\Prak_3_Circle.sourcelink.json
+C:\Users\Dima\Desktop\OOP prak\Prak_3_Circle\obj\Debug\net8.0\Prak_3_Circle.dll
+C:\Users\Dima\Desktop\OOP prak\Prak_3_Circle\obj\Debug\net8.0\refint\Prak_3_Circle.dll
+C:\Users\Dima\Desktop\OOP prak\Prak_3_Circle\obj\Debug\net8.0\Prak_3_Circle.pdb
+C:\Users\Dima\Desktop\OOP prak\Prak_3_Circle\obj\Debug\net8.0\Prak_3_Circle.genruntimeconfig.cache
+C:\Users\Dima\Desktop\OOP prak\Prak_3_Circle\obj\Debug\net8.0\ref\Prak_3_Circle.dll
