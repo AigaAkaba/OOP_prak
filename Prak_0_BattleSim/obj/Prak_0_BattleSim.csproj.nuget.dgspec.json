@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Dima\\Desktop\\OOP prak\\Prak_0_BattleSim\\Prak_0_BattleSim.csproj": {}
+    "C:\\Users\\Dima\\Desktop\\OOP prak\\Prak_0_BattleSim\\Prak_0_BattleSim.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Dima\\Desktop\\OOP prak\\Prak_0_BattleSim\\Prak_0_BattleSim.csproj": {
+    "C:\\Users\\Dima\\Desktop\\OOP prak\\Prak_0_BattleSim\\Prak_0_BattleSim.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Dima\\Desktop\\OOP prak\\Prak_0_BattleSim\\Prak_0_BattleSim.csproj",
+        "projectUniqueName": "C:\\Users\\Dima\\Desktop\\OOP prak\\Prak_0_BattleSim\\Prak_0_BattleSim.csproj",
         "projectName": "Prak_0_BattleSim",
-        "projectPath": "c:\\Users\\Dima\\Desktop\\OOP prak\\Prak_0_BattleSim\\Prak_0_BattleSim.csproj",
+        "projectPath": "C:\\Users\\Dima\\Desktop\\OOP prak\\Prak_0_BattleSim\\Prak_0_BattleSim.csproj",
         "packagesPath": "C:\\Users\\Dima\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Dima\\Desktop\\OOP prak\\Prak_0_BattleSim\\obj\\",
+        "outputPath": "C:\\Users\\Dima\\Desktop\\OOP prak\\Prak_0_BattleSim\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

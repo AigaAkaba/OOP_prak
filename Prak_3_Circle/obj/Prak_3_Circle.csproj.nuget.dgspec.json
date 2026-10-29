@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Dima\\Desktop\\OOP prak\\Prak_3_Circle\\Prak_3_Circle.csproj": {}
+    "C:\\Users\\Dima\\Desktop\\OOP prak\\Prak_3_Circle\\Prak_3_Circle.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Dima\\Desktop\\OOP prak\\Prak_3_Circle\\Prak_3_Circle.csproj": {
+    "C:\\Users\\Dima\\Desktop\\OOP prak\\Prak_3_Circle\\Prak_3_Circle.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Dima\\Desktop\\OOP prak\\Prak_3_Circle\\Prak_3_Circle.csproj",
+        "projectUniqueName": "C:\\Users\\Dima\\Desktop\\OOP prak\\Prak_3_Circle\\Prak_3_Circle.csproj",
         "projectName": "Prak_3_Circle",
-        "projectPath": "c:\\Users\\Dima\\Desktop\\OOP prak\\Prak_3_Circle\\Prak_3_Circle.csproj",
+        "projectPath": "C:\\Users\\Dima\\Desktop\\OOP prak\\Prak_3_Circle\\Prak_3_Circle.csproj",
         "packagesPath": "C:\\Users\\Dima\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Dima\\Desktop\\OOP prak\\Prak_3_Circle\\obj\\",
+        "outputPath": "C:\\Users\\Dima\\Desktop\\OOP prak\\Prak_3_Circle\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
